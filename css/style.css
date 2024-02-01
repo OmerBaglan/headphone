@@ -385,7 +385,7 @@ body::-webkit-scrollbar-thumb{
 }
 
 .airpods .airpods-wrapper{
-    padding: 8rem 0;
+    padding: 6rem 0;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -681,7 +681,7 @@ body::-webkit-scrollbar-thumb{
 
 @media(max-width:490px){
     html{
-        font-size: 10px;
+        font-size: 12px;
     }
 
 }
